@@ -1,1 +1,1 @@
-this is  dev testing
+this is  dev testing This i spushing from Remote to local
